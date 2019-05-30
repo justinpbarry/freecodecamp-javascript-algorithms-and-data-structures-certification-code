@@ -3,7 +3,8 @@
     https://justinpbarry.com
     You are free to use this code as you like. Please just give me credit.
 */
-// see solution-explanation.txt in this folder for the explanation to this problem
+
+// see solution-explanation.txt in this folder for the explanation to the solution of this problem
 
 function orbitalPeriod(arr) {
     var GM = 398600.4418;
