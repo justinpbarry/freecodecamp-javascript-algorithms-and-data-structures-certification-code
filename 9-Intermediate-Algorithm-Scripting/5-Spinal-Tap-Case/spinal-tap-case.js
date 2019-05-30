@@ -5,7 +5,6 @@
 */
 
 function spinalCase(str) {
-    // space single spaces by -
     let newStr = "";
     let previousChanged = false;
     const upperCaseLetters = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",
@@ -17,14 +16,12 @@ function spinalCase(str) {
         if (upperCaseLetters.indexOf(str[i]) != -1) {
             // if previous character wasn't changed
             if (!previousChanged) {
-
-                // check if it is the first character
+                // check if the uppercase letter is the the first character
                 if (i == 0) {
                     newStr += str[i].toLowerCase();
                 } else {
                     newStr += "-" + str[i].toLowerCase();
                 }
-
             } // if character is an uppercase letter and the previous character wasn't changed
             else {
                 newStr += str[i].toLowerCase();
@@ -50,9 +47,10 @@ function spinalCase(str) {
     return newStr;
 }
 
-let bbb = spinalCase('This Is Spinal Tap');
-let ccc = spinalCase("The_Andy_Griffith_Show");
-let ddd = spinalCase("AllThe-small Things");
-console.log(bbb);
-console.log(ccc);
-console.log(ddd);
+// below are examples that can be used to test the above function spinalCase
+let example1 = spinalCase('This Is Spinal Tap');
+let example2 = spinalCase("The_Andy_Griffith_Show");
+let example3 = spinalCase("AllThe-small Things");
+console.log(example1);
+console.log(example2);
+console.log(example3);
