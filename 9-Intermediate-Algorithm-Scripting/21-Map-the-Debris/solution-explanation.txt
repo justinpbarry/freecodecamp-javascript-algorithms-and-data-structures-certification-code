@@ -1,10 +1,11 @@
 The basic logic is to add Earth's radius to avgHeight. I assume avgHeight is the distance from the Kármán line to the satelite. See below for info on the Kármán line
 https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_line
 We then use Kepler's Third Law,
-Using the equation T = 2 * pi * sqrt(a^3 / mew) where mu = GM (standard gravitational parameter)
+Using the equation T = 2 * pi * sqrt(a^3 / μ ) where μ = GM (standard gravitational parameter)
 the orbital period T (in seconds) of two point masses orbiting each other in a circular or elliptic orbit is:[2]
-equation based on article in:
+equation based on article below:
 https://en.wikipedia.org/wiki/Orbital_period
+
 For the special case of a circle, the lengths of the semi-axes are both equal to the radius of the circle.
 https://en.wikipedia.org/wiki/Semi-major_and_semi-minor_axes
 
