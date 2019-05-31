@@ -4,11 +4,8 @@
     You are free to use this code as you like. Please just give me credit.
 */
 
-
 /* instructions
 Use multiple conditional operators in the checkSign function to check if a number is positive, negative or zero.
-
-
 */
 
 /* below is the original code
