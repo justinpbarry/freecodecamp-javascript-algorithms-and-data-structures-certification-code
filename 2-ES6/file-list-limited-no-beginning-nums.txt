@@ -1,0 +1,12 @@
+Use-Destructuring-Assignment-with-the-Rest-Operator-to-Reassign-Array-Elements
+Use-Destructuring-Assignment-to-Pass-an-Object-as-a-Function's-Parameters
+Create-Strings-using-Template-Literals
+Write-Concise-Object-Literal-Declarations-Using-Simple-Fields
+Write-Concise-Declarative-Functions-with-ES6
+Use-class-Syntax-to-Define-a-Constructor-Function
+Use-getters-and-setters-to-Control-Access-to-an-Object
+Understand-the-Differences-Between-import-and-require
+Use-export-to-Reuse-a-Code-Block
+Use-*-to-Import-Everything-from-a-File
+Create-an-Export-Fallback-with-export-default
+Import-a-Default-Export

@@ -1,0 +1,12 @@
+use-destructuring-assignment-with-the-rest-operator-to-reassign-array-elements
+use-destructuring-assignment-to-pass-an-object-as-a-function's-parameters
+create-strings-using-template-literals
+write-concise-object-literal-declarations-using-simple-fields
+write-concise-declarative-functions-with-es6
+use-class-syntax-to-define-a-constructor-function
+use-getters-and-setters-to-control-access-to-an-object
+understand-the-differences-between-import-and-require
+use-export-to-reuse-a-code-block
+use-*-to-import-everything-from-a-file
+create-an-export-fallback-with-export-default
+import-a-default-export
