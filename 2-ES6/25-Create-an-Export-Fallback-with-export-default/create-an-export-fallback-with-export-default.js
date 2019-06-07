@@ -4,14 +4,5 @@
     You are free to use this code as you like. Please just give me credit.
 */
 
-/* instructions
-
-*/
-
-/* below is the original code
-
-*/
-
-/* example output
-
-*/
+"use strict";
+export default function subtract(x,y) {return x - y;}

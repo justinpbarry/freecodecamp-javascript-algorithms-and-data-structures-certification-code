@@ -4,14 +4,6 @@
     You are free to use this code as you like. Please just give me credit.
 */
 
-/* instructions
-
-*/
-
-/* below is the original code
-
-*/
-
-/* example output
-
-*/
+"use strict";
+export const foo = "bar";
+export const bar = "foo";

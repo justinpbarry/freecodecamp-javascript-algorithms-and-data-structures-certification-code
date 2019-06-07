@@ -1,0 +1,85 @@
+use spreadsheet?
+
+
+or python?
+
+
+but can use python to generae numbers
+
+
+cd /tmp
+
+and open ipython3
+
+
+
+
+file = open('tempfile.txt', 'w')
+
+for x in range(1, 40):
+    file.write(str(x) + "\n")
+
+file.close()
+
+
+also add a 0 in from?
+
+
+
+save as file-list
+and also remove tabs with -
+
+
+\t by -
+
+and replace space by -
+
+
+#######################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
