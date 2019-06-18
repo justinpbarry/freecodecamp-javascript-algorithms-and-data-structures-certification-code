@@ -19,7 +19,7 @@ sed -e 's/\(.*\)/\L\1/' file-list-limited-no-beginning-nums.txt > file-list-limi
 # # # since they have different names use this slightly complicated script
 # # # code.js is a blank template I made for doing all challenges
 # # # about.txt is a template I made for putting in the information learned
-# ending=".js";
+ending=".js";
 paste -d@ file-list.txt file-list-limited-no-beginning-nums-all-lowercase.txt | while IFS="@" read -r f1 f2
 do
 cp code.js $f1/$f2$ending

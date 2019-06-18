@@ -1,4 +1,4 @@
-0-Introduction-to-the-Debugging-Challenges
+00-Introduction-to-the-Debugging-Challenges
 01-Use-the-JavaScript-Console-to-Check-the-Value-of-a-Variable
 02-Understanding-the-Differences-between-the-freeCodeCamp-and-Browser-Console
 03-Use-typeof-to-Check-the-Type-of-a-Variable
