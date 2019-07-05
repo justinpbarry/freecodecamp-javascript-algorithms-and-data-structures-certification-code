@@ -10,8 +10,8 @@
 var fixedValue = 4;
 
 // Add your code below this line
-function incrementer () {
-
+function incrementer (num) {
+    return num + 1;
   // Add your code above this line
 }
 
